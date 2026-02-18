@@ -15,7 +15,7 @@
 //       ▼
 //   CLASSIFICATION (10_queryClassifier.js)
 //   With resolved entities, decide: graph or similarity?
-//   LLM now KNOWS what each entity is — no guessing
+//   LLM now KNOWS what each entity is — no guessing.
 //       │
 //       ├──────────────────────┐
 //       ▼                      ▼
