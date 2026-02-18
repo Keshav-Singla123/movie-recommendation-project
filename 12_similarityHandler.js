@@ -12,7 +12,7 @@
 //
 // WHY resolved entities help:
 //   "Movies like Inception" → entity resolver already confirmed
-//   Inception = Movie "Inception" in the graph. No extra LLM call needed.
+//   Inception = Movie "Inception" in the graph. No extra LLM call needed
 // =====================================================================
 
 import { llm, embedText, pineconeIndex, driver } from "./2_config.js";

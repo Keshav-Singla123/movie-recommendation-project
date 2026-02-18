@@ -2,7 +2,7 @@
 // 11_graphHandler.js — UNIFIED GRAPH QUERY HANDLER
 // =====================================================================
 //
-// Handles ALL graph queries: factual, descriptive, relationship.
+// Handles ALL graph queries: factual, descriptive, relationship
 // They're all just "traverse the graph around resolved entities."
 //
 // HOW IT WORKS:
