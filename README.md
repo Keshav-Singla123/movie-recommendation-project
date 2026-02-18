@@ -13,7 +13,7 @@ This project is a sophisticated Movie Recommendation Engine that uses **GraphRAG
 
 ## 🚀 What It Does
 
-1.  **Ingests Data:** Reads a raw PDF file containing movie details.
+1.  **Ingests Data:** Reads a raw PDF file containing movie details
 2.  **Builds a "Brain":**
     *   **Structured Knowledge:** Extracts entities (Actors, Directors, Awards) and links them in a **Neo4j Graph Database**.
     *   **Vector Memory:** Converts movie summaries into mathematical vectors (embeddings) stored in **Pinecone**.
