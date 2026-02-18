@@ -5,7 +5,7 @@
 // What it does:
 //   1. Reads PDF file from disk (as binary bytes)
 //   2. Extracts all text from all pages
-//   3. Splits by dash separator into individual movie blocks
+//   3. Splits by dash separator into individual movie blocks.
 //
 // Input:  "./data/movies.pdf"
 // Output: ["Movie Title: Movie 0001\n...", "Movie Title: Movie 0002\n...", ...]

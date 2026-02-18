@@ -8,7 +8,7 @@
 //   3. Gemini LLM → Language Model (understands text, creates plans)
 //   4. Gemini Embeddings → Converts text to 768-dim vectors
 //
-// Every other file imports from THIS file.
+// Every other file imports from THIS file
 // If a key changes, you change it in ONE place.
 // =====================================================================
 
