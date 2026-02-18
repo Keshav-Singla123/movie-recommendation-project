@@ -3,7 +3,7 @@
 // =====================================================================
 // Command: npm run test
 //
-// Tests all 4 services. If any fails, fix your .env file.
+// Tests all 4 services. If any fails, fix your .env file
 // =====================================================================
 
 // ✅ FIX: Load environment variables before anything else

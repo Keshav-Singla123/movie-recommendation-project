@@ -9,7 +9,7 @@
 //   Step 2: entities → Neo4j (graph relationships)
 //   Step 3: PDF → parse text → chunk → embed → Pinecone (vectors)
 //
-// That's it. No caching, no flags. Just run everything.
+// That's it. No caching, no flags. Just run everything
 // =====================================================================
 
 import { extractAllEntities } from "./4_entityExtractor.js";
