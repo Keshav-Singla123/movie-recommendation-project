@@ -129,7 +129,7 @@ npm run query
 | "Illegal host" (Neo4j) | Your NEO4J_URI is wrong. It must start with neo4j+s://. |
 | "Dimension mismatch" | Your Pinecone index is set to 1536 or 768. Delete it and create a new one with dimension 3072. |
 | 400 / Model not found | Ensure you are using gemini-1.5-flash in 2_config.js. |
-| Rate Limit (429) | You are on the Free Tier. Edit 7_runIndexing.js to limit movies: extractAllEntities(pdfPath, 10). |
+| Rate Limit (429) | If you are on the Free Tier. Edit 7_runIndexing.js to limit movies: extractAllEntities(pdfPath, 10). |
 
 ## 👨‍💻 Author
 Keshav Singla  
