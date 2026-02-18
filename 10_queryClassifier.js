@@ -3,7 +3,7 @@
 // =====================================================================
 //
 // RUNS AFTER entity resolution. The classifier now KNOWS what each
-// entity is (Actor, Movie, Genre, etc.) — no guessing.
+// entity is (Actor, Movie, Genre, etc.) — no guessing
 //
 // TWO TYPES:
 //

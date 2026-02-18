@@ -28,7 +28,7 @@
 //           ]
 //
 // FUZZY MATCHING:
-//   User might say "Nolan" but graph has "Christopher Nolan".
+//   User might say "Nolan" but graph has "Christopher Nolan"
 //   We use CONTAINS for partial matching.
 //   If exact match exists, prefer it over partial match.
 // =====================================================================
