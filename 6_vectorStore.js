@@ -10,7 +10,7 @@
 //
 // WHY NOT @langchain/pinecone?
 //   @langchain/pinecone requires @langchain/core < 0.4.0
-//   but we use @langchain/core 1.x. Incompatible. No fix yet.
+//   but we use @langchain/core 1.x. Incompatible. No fix yet
 //   So we use Pinecone SDK directly — it's just one upsert call.
 // =====================================================================
 
