@@ -2,7 +2,7 @@
 // 5_graphBuilder.js — STEP 3: Structured JSON → Neo4j Graph
 // =====================================================================
 //
-// Each entity → NODE.  Each connection → RELATIONSHIP.
+// Each entity → NODE.  Each connection → RELATIONSHIP
 //
 // MERGE vs CREATE:
 //   CREATE always makes new node (causes duplicates!)

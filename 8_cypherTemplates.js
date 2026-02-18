@@ -10,7 +10,7 @@
 // WHITELIST = list of things that ARE allowed.
 // Anything NOT on the list is rejected.
 //
-// This guarantees: no DELETE, no SET, no CREATE can ever reach Neo4j.
+// This guarantees: no DELETE, no SET, no CREATE can ever reach Neo4j
 // =====================================================================
 
 // ── What labels (node types) are allowed ──

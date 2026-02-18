@@ -11,7 +11,7 @@
 //   - 429 (rate limit) → wait 30s/60s/90s
 //   - Other errors (parse fail, network, etc.) → wait 10s/20s/30s
 //   - After all batches done → retry ALL failed batches one more time
-//   - Final summary shows exactly which movies were lost (if any)
+//   - Final summary shows exactly which movies were lost (if any).
 // =====================================================================
 
 import { genai } from "./2_config.js";
