@@ -139,5 +139,4 @@ GitHub: @Keshav-Singla123
 - Google Gemini for the LLM and Embeddings.
 - Neo4j for Graph Database technology.
 - Pinecone for Vector Search.
-- LangChain for orchestrating the AI workflow.
 
